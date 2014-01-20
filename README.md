@@ -10,23 +10,36 @@ This contains all files need to 3D print, assemble and code your very own castle
 SUPPLIES/TOOLS:
 
 -3D Printer (A Mojo was used for this project)
+
 -Arduino YUN
+
 -LED
+
 -Two Wires
+
 -Perf Board
+
 -Solder Iron & Solder
+
 -Spray Paint
+
 -Detail Paint
 
 
 FILES/PROGRAMS:
 
 -3D Castle Model
+
 -Cinema 4D
+
 -Foursquare
+
 -Twitter
+
 -Twitter App
+
 -Temboo Account
+
 -Arduino Sketch Platform
 
 
