@@ -2,3 +2,30 @@ How to Configure your Arduino Yun & LED
 
 ----
 SUPPLIES:
+
+-Arduino YUN
+-Small Perf Board 6x8 holes
+-1 LED
+-Ohm
+-2 Jumper Wires
+-Solder Iron/Solder
+
+----
+---
+STEPS
+(You can also refer to the Fritzing Diagram in this repo)
+
+On your perf board we are going to create a simple 1 LED setup.
+
+1. Place the LED near the top, Anode to the left, going horizontal.
+2. PLace an Ohm going down vertically from the Cathode side of the LED.
+3. Solder the Ohm leg & Cathode leg located next to each other.
+4. Place a jumper wire to the left of the bottom Ohm leg.
+5. Solder the jumper & Ohm together.
+6. Place a jumper wire to the left of the LED's Anode leg.
+7. Solder the jumper and Anode legs together.
+8. Connect the jumper wire from the LED to PIN 13 on the Arduino YUN.
+9. Connect the jumper wire from the Ohm to the GRND on the Arduino YUN.
+
+----
+BOOM! Pretty simple set up for such a magical result.
