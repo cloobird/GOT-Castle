@@ -1,4 +1,4 @@
-Game of Thrones Lighted Castle
+Game of Thrones Lighted 3d Printed Castle
 ==========
 
 GOT is all about POWER. And LAND. Hold the power of castle ownership through Foursquare Mayorships and an Arduino YUN. When you check-in as a mayor and use #GOTStark (or your favorite House), the castle will light up, shining your power for all to see.
